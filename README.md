@@ -29,7 +29,7 @@ Only tested on Ubuntu 14.04 now. But should work on other Linux distros. You can
 ```sh
 apt-get update
 apt-get install python2.7 python-pip tshark sqlite3
-pip install --upgrade rena
+pip install --upgrade RENA
 ```
 
 # TODO List
